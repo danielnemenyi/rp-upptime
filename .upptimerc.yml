@@ -8,7 +8,7 @@ sites:
   - name: Radical Philosophy
     url: https://www.radicalphilosophy.com
   - name: Test Fail
-    url: https://testfail.danielnemenyi.net
+    url: https://testfailfoobar.danielnemenyi.net
 assignees:
   - danielnemenyi
 status-website:
