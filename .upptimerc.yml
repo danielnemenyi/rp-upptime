@@ -7,6 +7,8 @@ sites:
     url: https://danielnemenyi.net
   - name: radicalphilosophy.com
     url: https://www.radicalphilosophy.com
+  - name: okey.kompyuter.net
+    url: https://okey.kompyuter.net
 assignees:
   - danielnemenyi
 status-website:
