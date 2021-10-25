@@ -3,9 +3,9 @@ owner: danielnemenyi # Your GitHub organization or username, where this reposito
 repo: upptime # The name of this repository
 
 sites:
-  - name: My blog
+  - name: danielnemenyi.net
     url: https://danielnemenyi.net
-  - name: Radical Philosophy
+  - name: radicalphilosophy.com
     url: https://www.radicalphilosophy.com
   - name: Test Fail
     url: https://testfail.danielnemenyi.net
