@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: danielnemenyi.net
-    url: https://fail.danielnemenyi.net
+    url: https://danielnemenyi.net
   - name: radicalphilosophy.com
     url: https://www.radicalphilosophy.com
 assignees:
