@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 659,
-    "timeDay": 714,
-    "timeWeek": 659,
-    "timeMonth": 659,
-    "timeYear": 659,
+    "time": 657,
+    "timeDay": 641,
+    "timeWeek": 657,
+    "timeMonth": 657,
+    "timeYear": 657,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://www.radicalphilosophy.com",
     "icon": "https://favicons.githubusercontent.com/www.radicalphilosophy.com",
     "slug": "radicalphilosophy-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 980,
-    "timeDay": 1322,
-    "timeWeek": 980,
-    "timeMonth": 980,
-    "timeYear": 980,
-    "dailyMinutesDown": {}
+    "time": 928,
+    "timeDay": 665,
+    "timeWeek": 928,
+    "timeMonth": 928,
+    "timeYear": 928,
+    "dailyMinutesDown": {
+      "2021-10-28": 0
+    }
   },
   {
     "name": "okey.kompyuter.net",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 415,
-    "timeDay": 340,
-    "timeWeek": 415,
-    "timeMonth": 415,
-    "timeYear": 415,
+    "time": 399,
+    "timeDay": 318,
+    "timeWeek": 399,
+    "timeMonth": 399,
+    "timeYear": 399,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 51,
+      "2021-10-28": 1412,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
       "2021-10-25": 516
