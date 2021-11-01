@@ -9,8 +9,6 @@ sites:
     url: https://www.radicalphilosophy.com
   - name: okey.kompyuter.net
     url: https://okey.kompyuter.net
-  - name: Broken url
-    url: https://www.thissitedontwork999.com
 assignees:
   - danielnemenyi
 status-website:
