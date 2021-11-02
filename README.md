@@ -1,6 +1,6 @@
 # [📈 Live Status](https://upptime.github.io/upptime): <!--live status--> **🟩 All systems operational**
 
-This repository contains uptime monitors for a few of my projects. It is powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains uptime monitors for Radical Philosophy. It is powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/danielnemenyi/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/danielnemenyi/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/danielnemenyi/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/danielnemenyi/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
