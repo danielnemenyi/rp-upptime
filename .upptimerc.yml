@@ -13,9 +13,9 @@ status-website:
   cname: status.radicalphilosophy.com
   #baseUrl: /rp-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Radical Philosophy Status
+  name: Radical Philosophy
   introTitle: "Radical Philosophy Server Status"
-  introMessage: "If anything is shown as down below, then please contact the systems administrator" 
+  introMessage: "If the status below is anything other than 'All systems are operational', please contact the RP systems administrator." 
   navbar:
     - title: Status
       href: /
