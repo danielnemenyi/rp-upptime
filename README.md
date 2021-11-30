@@ -2,6 +2,8 @@
 
 This repository contains uptime monitors for Radical Philosophy. It is powered by [Upptime](https://github.com/upptime/upptime).
 
+See dashboard [https://status.radicalphilosophy.com](https://status.radicalphilosophy.com/).
+
 [![Uptime CI](https://github.com/danielnemenyi/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/danielnemenyi/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/danielnemenyi/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/danielnemenyi/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/danielnemenyi/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/danielnemenyi/upptime/actions?query=workflow%3A%22Graphs+CI%22)
