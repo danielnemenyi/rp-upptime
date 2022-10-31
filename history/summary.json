@@ -5,24 +5,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.radicalphilosophy.com.ico",
     "slug": "radicalphilosophy-com",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.63%",
+    "uptimeYear": "99.76%",
     "time": 986,
-    "timeDay": 1125,
-    "timeWeek": 1012,
-    "timeMonth": 1059,
-    "timeYear": 988,
+    "timeDay": 983,
+    "timeWeek": 1010,
+    "timeMonth": 1056,
+    "timeYear": 992,
     "dailyMinutesDown": {
       "2022-04-25": 22,
       "2021-12-17": 31,
       "2021-12-10": 126,
       "2021-12-03": 99,
       "2021-11-30": 56,
-      "2021-11-15": 16,
-      "2021-10-31": 1012
+      "2021-11-15": 16
     }
   }
 ]
