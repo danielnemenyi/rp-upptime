@@ -4,7 +4,7 @@
     "url": "https://www.radicalphilosophy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.radicalphilosophy.com.ico",
     "slug": "radicalphilosophy-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1017,
     "timeYear": 1019,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-04-25": 22
     }
   }
