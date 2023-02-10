@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.radicalphilosophy.com.ico",
     "slug": "radicalphilosophy-com",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 995,
-    "timeDay": 1304,
-    "timeWeek": 1173,
-    "timeMonth": 1055,
-    "timeYear": 1017,
+    "timeDay": 1310,
+    "timeWeek": 1158,
+    "timeMonth": 1062,
+    "timeYear": 1018,
     "dailyMinutesDown": {
       "2022-04-25": 22
     }
