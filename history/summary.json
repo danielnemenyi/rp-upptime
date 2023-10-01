@@ -4,19 +4,19 @@
     "url": "https://www.radicalphilosophy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.radicalphilosophy.com.ico",
     "slug": "radicalphilosophy-com",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1015,
-    "timeDay": 1080,
-    "timeWeek": 1071,
-    "timeMonth": 969,
+    "time": 1014,
+    "timeDay": 1108,
+    "timeWeek": 1079,
+    "timeMonth": 975,
     "timeYear": 1010,
     "dailyMinutesDown": {
-      "2023-10-01": 0
+      "2023-10-01": 15
     }
   }
 ]
